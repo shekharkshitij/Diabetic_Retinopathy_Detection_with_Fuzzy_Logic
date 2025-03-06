@@ -154,7 +154,7 @@ We use **multiple evaluation metrics**:
 ### **1️⃣ Clone Repository**
 ```bash
 git clone https://github.com/shekharkshitij/Diabetic_Retinopathy_Detection_with_Fuzzy_Logic.git
-
+```
 ---
 
 ## 🔮 **Future Work**
